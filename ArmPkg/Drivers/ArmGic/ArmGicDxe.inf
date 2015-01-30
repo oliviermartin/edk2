@@ -52,6 +52,7 @@
 
 [Pcd.common]
   gArmTokenSpaceGuid.PcdGicDistributorBase
+  gArmTokenSpaceGuid.PcdGicRedistributorBase
   gArmTokenSpaceGuid.PcdGicInterruptInterfaceBase
 
 [Depex]
